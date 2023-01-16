@@ -15,6 +15,7 @@ https://zenn.dev/sprout2000/books/6f6a0bf2fd301c/viewer/13263
 https://github.com/github/gitignore/blob/main/Node.gitignore
 
 
-
+インストーラーを作るコマンド：（ただしまだ動作しない）
+npm run make
 
 -----------------------------------------------------
